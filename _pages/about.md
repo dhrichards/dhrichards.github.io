@@ -6,7 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a Research Associate at the University of Tasmania, working with Prof. Elisa Mantelli and Prof. Poul Christofferson. My ultimate research aim is to improve our understanding and prediction of the flow of ice-sheets and glaciers, and bring advanced mathematical and numerical techniques into glaciology. My work so far has focused on understanding the development of ice fabrics (the alignment of crystallites in a region) and how this affects the flow of ice. Understanding the mechanisms controlling the flow of ice is key for accurately predicting sea-level rise in the future: mass loss from ice-sheets is the main source of uncertainty in sea-level rise predictions and my research aims to reduce this present uncertainty.
+I'm an applied mathematician and glaciologist interested in understanding the physical processes that control the flow and fracture of glaciers and ice sheets. My research combines continuum mechanics, numerical methods and high-performance computing to develop mathematical models that improve our understanding of Earth's changing cryosphere.
+
+I am currently a Postdoctoral Research Associate at the British Antarctic Survey, where I develop models of ice-shelf fracture and calving. A major focus of my work is developing phase-field models that capture both the slow deformation of glacier ice over years to centuries and the rapid propagation of fractures that ultimately lead to calving. By improving the physical realism of these models, I hope to contribute to more reliable projections of Antarctic ice-sheet change and future sea-level rise.
+
+Before joining BAS, I completed a PhD in Applied Mathematics at the University of Leeds, studying how the microscopic arrangement of ice crystals influences the large-scale flow of glaciers and ice sheets. I subsequently held postdoctoral positions at the University of Leeds and the University of Tasmania, where I continued developing mathematical and computational models for glacier dynamics.
+
+More broadly, my research sits at the intersection of applied mathematics, computational mechanics and glaciology. I enjoy developing new numerical methods for solving challenging physical problems and applying them to questions that have real-world significance. My interests include fracture mechanics, continuum mechanics, finite element methods, multiphysics modelling and scientific computing.
 
 
 <!-- 
