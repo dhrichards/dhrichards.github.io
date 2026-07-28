@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-AU"
-title                    : "Daniel Richards"
+locale                   : "en-GB"
+title                    : "Daniel H. Richards"
 title_separator          : "-"
-name                     : &name "Daniel Richards"
+name                     : &name "Daniel H. Richards"
 description              : &description "personal description"
 url                      : https://dhrichards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "dhrichards/dhrichards.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Daniel Richards"
+  name             : "Daniel H. Richards"
   pronouns         : # example: "she/her"  
   bio              : "Glaciologist"
-  location         : "Melbourne, Australia"
-  employer         : "University of Tasmania"
+  location         : "Cambridge, United Kingdom"
+  employer         : "British Antarctic Survey"
   uri              : # URL
-  email            : "daniel.richards@utas.edu.au" 
+  email            : "dancha@bas.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-8501-8730"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Daniel-Richards-18"
+  researchgate     : "https://www.researchgate.net/profile/Daniel-Richards-23"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
