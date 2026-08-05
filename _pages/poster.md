@@ -1,5 +1,5 @@
 ---
-title: "Preprint"
+title: "Poster page"
 permalink: /poster/
 layout: single
 author_profile: false
