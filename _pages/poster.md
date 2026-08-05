@@ -1,6 +1,6 @@
 ---
 title: "Preprint"
-permalink: /preprint/
+permalink: /poster/
 layout: single
 author_profile: false
 ---
