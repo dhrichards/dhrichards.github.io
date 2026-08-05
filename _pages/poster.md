@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 
-![Simulation of iceberg calving](/files/calving.gif)
+![Simulation of iceberg calving](/files/damage.gif)
 
 Once it is publicly available, this page will redirect to the preprint.
 
