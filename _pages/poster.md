@@ -15,5 +15,3 @@ Thank you for viewing my poster.
 [The online link to my poster is here](xxx)
 
 [The github repository is available here](https://github.com/dhrichards/kraken)
-
-In the meantime, please feel free to email me if you'd like a copy.
