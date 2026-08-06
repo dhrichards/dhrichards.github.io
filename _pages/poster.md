@@ -10,7 +10,7 @@ author_profile: false
 
 Thank you for viewing my poster.
 
-[Read the preprint on arXiv](https://arxiv.org/xxx)
+[Read the preprint on arXiv](/files/preprint.pdf)
 
 [The online link to my poster is here](xxx)
 
