@@ -12,6 +12,6 @@ Thank you for viewing my poster.
 
 [Read the preprint on arXiv](/files/preprint.pdf)
 
-[The online link to my poster is here](xxx)
+[The online link to my poster is here](https://virtual.oxfordabstracts.com/event/75327/poster-gallery/grid?sort=titles&current=1472)
 
 [The github repository is available here](https://github.com/dhrichards/kraken)
