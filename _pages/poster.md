@@ -10,7 +10,7 @@ author_profile: false
 
 Thank you for viewing my poster.
 
-[Read the preprint on arXiv](/files/preprint.pdf)
+[The preprint is available here](https://dx.doi.org/10.2139/ssrn.7268405)
 
 [The online link to my poster is here](https://virtual.oxfordabstracts.com/event/75327/poster-gallery/grid?sort=titles&current=1472)
 
